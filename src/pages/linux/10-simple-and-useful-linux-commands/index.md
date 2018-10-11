@@ -53,3 +53,7 @@ Copy file from source to destination preserving same mode.
 
 Here are the list of commands frequently used by adiminstrator.
 This is not a complete but it’s a compact list of commands to refer when needed. 
+
+11. 'touch' The touch command is used to creat a file. It can be anything from an empty txt file to an empty zip.
+ -"touch new.txt"
+
