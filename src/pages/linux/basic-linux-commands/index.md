@@ -37,3 +37,9 @@ When starting out with linux, there are some basic commands everyone should know
 
  11. **less** - view file content  
 - Use `less filename.txt` to view contents of a file and navigate through them. By default, less will go through the file page by page.
+
+12. **locate** - locate or find command used to find files within the Linux OS.
+- locate -i *red*house**city**  locate a file containing "red", "house", and "city"
+
+13. **clear** - clear command clears the information in the command line.
+-clear then enter.
