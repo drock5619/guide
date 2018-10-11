@@ -61,6 +61,14 @@ background-color: blue;
 You can see the result of the above code <a href='https://codepen.io/Tlandis/pen/RLvomV' target='_blank' rel='nofollow'>here</a>.
 Learn how to combine css classes using selectors <a href='https://www.w3schools.com/css/css_combinators.asp' target='_blank' rel='nofollow'>here</a>. 
 
+- Adding External Style Sheet to change page look.
+  - Using an external style sheet, you have the ability to change the look of an entire website by changing one file. 
+    -The page must include a reference to the external style sheet file inside the <link>element.  The <link> element goes inside the <head> section.
+  
+<head>
+<link rel=" stylesheet" type="text/css" href= "mystyle.css">
+</head>
+
 #### More Information:
 
 <!-- Please add any articles you think might be helpful to read before writing the article -->
